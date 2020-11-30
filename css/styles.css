@@ -74,7 +74,7 @@ header .access_me #fb {
     color: white;
     /* position: relative; */
     transition-property: background;
-    transition-duration: 0.5s;
+    transition-duration: 0.1s;
     transition-timing-function: ease-in-out;
 }
 
@@ -87,7 +87,7 @@ header .access_me #twit {
     align-content: center;
     color: #fff;
     transition-property: background;
-    transition-duration: 0.5s;
+    transition-duration: 0.1s;
     transition-timing-function: ease-in-out;
 }
 
@@ -100,7 +100,7 @@ header .access_me #wap {
     align-content: center;
     color: #fff;
     transition-property: background;
-    transition-duration: 0.5s;
+    transition-duration: 0.1s;
     transition-timing-function: ease-in-out;
 }
 
@@ -113,7 +113,7 @@ header .access_me #ig {
     align-content: center;
     color: #fff;
     transition-property: background;
-    transition-duration: 0.5s;
+    transition-duration: 0.1s;
     transition-timing-function: ease-in-out;
 }
 
@@ -127,7 +127,7 @@ header .access_me #yout {
     align-content: center;
     color: #fff;
     transition-property: background;
-    transition-duration: 0.5s;
+    transition-duration: 0.1s;
     transition-timing-function: ease-in-out;
 }
 
