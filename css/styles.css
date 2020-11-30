@@ -1035,9 +1035,9 @@ footer.footer {
 
 
 @media (max-width: 650px) {
-	.container {
+	/* .container {
         overflow-x: visible;
-    }
+    } */
 
     header.my_header img {
         width: 20%;
@@ -1076,7 +1076,7 @@ footer.footer {
     }
 
     section.showcase .showcase_top img {
-        width: 15%;
+        width: 10%;
         margin-top: 20px;
     }
 
@@ -1103,7 +1103,7 @@ footer.footer {
     
     .showcase .showcase_content h1 {
         color: #fff;
-        font-size: 1.4/5rem;
+        font-size: 1.2/2rem;
         margin-left: 35px;
         margin-bottom: 10px;
     }
@@ -1225,7 +1225,7 @@ footer.footer {
 
     section.about_me .about_me_content img {
         width: 70%;
-        height: 34rem;
+        height: 28rem;
         margin-left: 70px;
         margin-top: 20px;
         text-align: center;
