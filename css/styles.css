@@ -1143,6 +1143,10 @@ footer.footer {
     }
 
     section.gallery {
+	    height: 1140px;
+	}
+
+    section.gallery {
         height: 2000px;
     }
 
